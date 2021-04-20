@@ -636,6 +636,7 @@ ol {
   .my-img img {
     width: 300px;
     height: 340px;
+    margin-bottom: 30px;
   }
 }
 @media (min-width: 1200px) {
